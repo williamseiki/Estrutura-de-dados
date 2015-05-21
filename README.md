@@ -14,3 +14,6 @@ Insertion Sort
 Quick Sort
 
   O tempo de execução independe da ordem de entrada, assim não é necessário fazer a suposição sobre a distribuição da entrada de dados. Nenhuma entrada específica produz o pior caso, e pior caso somente é produzido com um gerador de números aleatórios.
+  
+  Conclui-se de que cada método possui suas características particulares, não existindo um método de ordenação considerado universalmente superior a todos os outros. É necessário analisar o problema e, com base nas características dos dados, decidir qual o método melhor se aplica à ele.
+  A tarefa de ordenação é muito importante, ela é uma necessidade básica para a solução de muitos problemas.
