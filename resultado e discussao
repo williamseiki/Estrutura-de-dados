@@ -1,0 +1,8 @@
+Bubble sort
+Assim este método de ordenação não é recomendado para vetores com muitos elementos
+
+insertion
+É eficiente quando aplicado à um vetor com poucos elementos.
+
+quick sort
+É recomendável para arquivos grandes e quanto mais o vetor estiver desordenado, maior será sua vantagem em relação aos outros métodos.
